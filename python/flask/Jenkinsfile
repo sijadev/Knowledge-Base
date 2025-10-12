@@ -1,0 +1,37 @@
+pipeline {
+    agent any
+    options {
+        gitLabConnection('GitLab')
+        }
+    triggers {
+        gitlab(
+            triggerOnPush: true,
+            triggerOnMergeRequest: true,
+            branchFilterType: 'All',
+            addVoteOnMergeRequest: true)
+        }
+    stages{
+        stage('Prepare venv') {
+        steps {
+            script {
+                    sh 'python3 -m venv pyenv'
+                    $PYTHON_PATH =  sh(script: 'echo ${WORKSPACE}/pyenv/bin/', returnStdout: true).trim()
+                    sh '. pyenv/bin/activate'
+                    }
+                }
+            } 
+        stage('build') {
+            steps {
+                sh (script:'pip3 install flask xmlrunner')
+            }
+        }
+        stage('test') {
+            steps {
+                sh (script:'python3 unittest_server.py')
+            }
+            post {
+                always {junit 'test-reports/*.xml'}
+            }
+        } 
+    }
+}

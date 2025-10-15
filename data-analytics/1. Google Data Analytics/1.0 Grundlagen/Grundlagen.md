@@ -10,7 +10,7 @@ links:
   - "[[Hilfreiche Ressourcen und Tipps]]"
 ---
 
-## Modul Grundlagen
+## Kursinhalte
 
 ---
 

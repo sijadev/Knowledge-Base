@@ -18,8 +18,7 @@ links:
 
 ```dataview
 LIST
-FROM "Data-Analyst/1. Google Data Analytics/1.0 Grundlagen/1.1 Einführung in
-die Datenanalyse"
+FROM "1. Google Data Analytics/1.0 Grundlagen/1.1 Einführung in die Datenanalyse"
 ```
 
 ---
@@ -28,8 +27,7 @@ die Datenanalyse"
 
 ```dataview
 LIST
-FROM "Data-Analyst/1. Google Data Analytics/1.0 Grundlagen/1.2 Die wunderbare
-Welt der Daten"
+FROM "1. Google Data Analytics/1.0 Grundlagen/1.2 Die wunderbare Welt der Daten"
 ```
 
 ---
@@ -38,8 +36,16 @@ Welt der Daten"
 
 ```dataview
 LIST
-FROM "Data-Analyst/1. Google Data Analytics/1.0 Grundlagen/1.3 Richten Sie Ihre
-Data Analytics Toolbox ein"
+FROM "1. Google Data Analytics/1.0 Grundlagen/1.3 Richten Sie Ihre Data Analytics Toolbox ein"
+```
+
+---
+
+### 4. Werden Sie zu einem fairen und auswirkungsreichen Datenprofi
+
+```dataview
+LIST
+FROM "1. Google Data Analytics/1.0 Grundlagen/1.4 Werden Sie zu einem fairen und auswirkungsreichen Datenprofi"
 ```
 
 ---
@@ -49,7 +55,7 @@ Data Analytics Toolbox ein"
 ```dataview
 
 LIST
-FROM "Data-Analyst/6. Progress"
+FROM "6. Progress/Grundlagen"
 
 ```
 
@@ -57,6 +63,6 @@ FROM "Data-Analyst/6. Progress"
 
 ```dataview
 TABLE urls as "Coursera, BigQuery"
-FROM "Data-Analyst/2. Quellen/Kurs-Url"
+FROM "2. Quellen/Kurs-Url.md"
 
 ```

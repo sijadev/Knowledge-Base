@@ -182,6 +182,10 @@ John,30,London
 **Definition:** Eine Methode, um nur bestimmte Datenzeilen basierend auf Bedingungen anzuzeigen.  
 **SQL:** `WHERE country = 'Germany' AND sales > 1000`
 
+### Frage
+**Definition:**  Dient dazu um Informationen zu finden.
+**Beispiel:** 5-Warum Regel 
+
 ---
 
 ## G
@@ -211,6 +215,10 @@ John,30,London
 ### Inner Join
 **Definition:** Eine SQL-Operation, die nur Zeilen zurückgibt, bei denen es eine Übereinstimmung in beiden Tabellen gibt.  
 **Beispiel:** Nur Kunden MIT Bestellungen.
+
+### Issue
+**Definition:**  Ein Thema zur Untersuchung.
+**Beispiel:** bezieht sich auf ein Thema oder einen Gegenstand, der untersucht werden soll. Es ist wie ein großes Bild, das wir betrachten, um mehr über ein bestimmtes Thema zu erfahren. Zum Beispiel könnte ein Zoo ein Issue haben, das sich mit der Besucherzufriedenheit beschäftigt
 
 ---
 
@@ -295,6 +303,10 @@ John,30,London
 **Definition:** Eine Spalte (oder Kombination), die jede Zeile in einer Tabelle eindeutig identifiziert.  
 **Beispiel:** Customer ID, Order ID.  
 **Eigenschaften:** Einzigartig, nicht NULL.
+
+### Problem
+**Definition:** Ein Hindernis, das gelöst werden muss.
+**Beispiel:** Ein Hindernis oder eine Komplikation, die gelöst werden muss. Es ist wie ein Stein im Weg, den wir aus dem Weg räumen müssen, um weiterzukommen. Zum Beispiel könnte der Zoo ein Problem mit der Personalplanung haben, wenn das Wetter unvorhersehbar ist.
 
 ---
 

@@ -10,9 +10,12 @@ tags:
   - korrelation
   - gesamt-bild_detailorientiertes-denken
   - arten-des-analytischen-denkens
+  - bias-bewusstsein
 links:
   - "[[Grundlagen]]"
   - "[[Arten des Denkens]]"
+  - "[[Bias-Bewusstsein]]"
+  - "[[Fairness]]"
 ---
 
 ## 🧠 Analytisches Denken - Die 5 Säulen

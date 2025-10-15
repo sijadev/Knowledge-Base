@@ -8,6 +8,7 @@ tags:
 links:
   - "[[Analytisches Denken]]"
   - "[[Grundlagen]]"
+  - "[[Fairness]]"
 ---
 ---
 

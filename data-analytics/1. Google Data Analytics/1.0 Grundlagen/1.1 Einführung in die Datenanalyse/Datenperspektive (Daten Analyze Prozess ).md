@@ -7,6 +7,7 @@ time: 00:19
 tags:
   - Datenperspektive
   - data-analyze-prozess
+  - fairness
 links:
   - "[[Fragephase]]"
   - "[[Vorbereitungsphase]]"
@@ -14,6 +15,7 @@ links:
   - "[[Analyse-Phase]]"
   - "[[Phase der Weitergabe]]"
   - "[[Handlungsphase]]"
+  - "[[Fairness]]"
 ---
 ---
 

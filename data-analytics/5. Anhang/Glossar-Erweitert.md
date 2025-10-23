@@ -140,6 +140,9 @@ John,30,London
 **Definition:** Ein zentrales Repository strukturierter Daten aus verschiedenen Quellen, optimiert für Analyse und Reporting.  
 **Beispiele:** BigQuery, Snowflake, Redshift.
 
+### Daten
+**Definition:**  Sind eine Sammlung von Fakten
+
 ### Dimension
 **Definition:** Eine Kategorie beschreibender Informationen in einem Data Warehouse (z.B. Zeit, Ort, Produkt).  
 **Beispiel:** In einer Verkaufstabelle: Produkt-Name, Kategorie, Region = Dimensionen.

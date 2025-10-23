@@ -4,9 +4,9 @@ title: Effektive Fragen stellen
 type: Google Data Analytics Kurs
 date: 2025-10-15
 tags:
-  - 
+  - Fragephase
 links:
-  -
+  - "[[Fragen für datengesteuerte Entscheidungsfindung]]"
 ---
 ---
 

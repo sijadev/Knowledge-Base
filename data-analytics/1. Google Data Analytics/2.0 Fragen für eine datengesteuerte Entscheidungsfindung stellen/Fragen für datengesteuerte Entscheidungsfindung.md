@@ -7,7 +7,7 @@ tags:
   - "#Fragephase"
   - "#datengestützte-Entscheidungsfindung"
 links:
-  -
+  - "[[Grundlagen]]"
 ---
 ---
 ## Kursinhalte

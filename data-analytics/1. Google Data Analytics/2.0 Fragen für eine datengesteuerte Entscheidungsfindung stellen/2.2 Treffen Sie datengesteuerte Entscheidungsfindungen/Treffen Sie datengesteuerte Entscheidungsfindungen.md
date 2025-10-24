@@ -2,11 +2,11 @@
 autor: Simon Janke
 title: Datengesteuerte Entscheidungsfindungen
 type: Google Data Analytics Kurs
-date:
+date: 2025-10-24
 tags:
-  - 
+  - "#lernziele"
 links:
-  -
+  - "[[Fragen für datengesteuerte Entscheidungsfindung]]"
 ---
 ---
 
